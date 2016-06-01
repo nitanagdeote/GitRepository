@@ -11,4 +11,12 @@
 # git push : pushes the remote changes to the github
 # git remote 
 # git fetch
-# git pull
+# git pull : git pull does a git fetch followed by a git merge
+  git pull is what you would do to bring a local branch up-to-date with its remote version
+
+# git merge : When To Merge?
+  Examples of when would you might want to merge branches:
+  You start with a repository you cloned. After you make changes to your local copy of the repository, you will need to fetch/pull new updates from the repository and merge the updates into your local branch.
+  There are multiple branches and you want to merge the multiple branches into your branch.
+
+
