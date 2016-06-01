@@ -26,4 +26,8 @@
 # git branch -a <- list all branches
 # git branch -r <- list origin branches
 # git checkout -b iss53 <- creates and switches to brach iss53
-# git pull remotename branchname: Grabs online updates and merges them with your local work
+
+# git push origin :iss53 <- deletes branch iss53 from origin (: important)
+# git branch -d master1 : deletes branch master1 from remote
+
+
