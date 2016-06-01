@@ -25,3 +25,5 @@
 # git brach <- list branches
 # git branch -a <- list all branches
 # git branch -r <- list remote branches
+# git checkout -b iss53 <- creates and switches to brach iss53
+# 
