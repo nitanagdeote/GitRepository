@@ -2,5 +2,13 @@
 # Remote : It is a user local machine
 # Local : git hub 
 # origin : git hub 
-git commands start with "git"
-
+# git commands start with "git"
+# git clone url : copies the github repos in local machine
+# git clone url dir1 : copies the github repos in the remore directory dir1
+# git add . : adds all the files to the local
+# git add file1 : adds "file1" to the local
+# git commit -m  "my commit" : commits the changes/ its like entering the command
+# git push : pushes the remote changes to the github
+# git remote 
+# git fetch
+# git pull
