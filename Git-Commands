@@ -19,4 +19,8 @@
   You start with a repository you cloned. After you make changes to your local copy of the repository, you will need to fetch/pull new updates from the repository and merge the updates into your local branch.
   There are multiple branches and you want to merge the multiple branches into your branch.
 
-
+# git branch master1 <- creates brach master1
+# git checkout master1 <- switches to branch master1
+# git brach <- list branches
+# git branch -a <- list all branches
+# git branch -r <- list remote branches
