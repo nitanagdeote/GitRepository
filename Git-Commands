@@ -1,7 +1,8 @@
 
 # Remote : It is a user local machine
-# Local : git hub 
-# origin : git hub 
+# Local : github 
+# origin : github server
+# master : github branch
 # git commands start with "git"
 # git clone url : copies the github repos in local machine
 # git clone url dir1 : copies the github repos in the remore directory dir1
