@@ -22,8 +22,8 @@
 
 # git branch master1 <- creates brach master1
 # git checkout master1 <- switches to branch master1
-# git brach <- list branches
+# git brach <- list branches remote
 # git branch -a <- list all branches
-# git branch -r <- list remote branches
+# git branch -r <- list origin branches
 # git checkout -b iss53 <- creates and switches to brach iss53
 # git pull remotename branchname: Grabs online updates and merges them with your local work
